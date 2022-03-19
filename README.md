@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking to collaborate on **OpenSource Contributions. Ping me, if you can guide me. Would be grateful.🌻**
 
-- 👨‍💻 All of my projects are available at [https://pavan-portfolio-nine.vercel.app/](https://pavan-kallem.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://pavan-kallem.vercel.app/](https://pavan-kallem.vercel.app/)
 
 - 💬 Ask me about **HTML,CSS,Javascript & React**
 
