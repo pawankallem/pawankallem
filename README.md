@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://pavan-kallem.vercel.app/](https://pavan-kallem.vercel.app/)
 
-- 💬 Ask me about **HTML,CSS,Javascript & React**
+- 💬 Ask me about ** HTML, CSS, Javascript, Reactjs, Redux and DataStructure and Algorithum **
 
 - 📫 How to reach me **pawankallem001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jSqqHVyM3OlyvrRTR0Yo2RTxx6Vx3REO/view](https://drive.google.com/file/d/1jSqqHVyM3OlyvrRTR0Yo2RTxx6Vx3REO/view)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1Lu5KRWRxA-HHLxSPjxwJmU8P20XkzKdp?usp=sharing](https://drive.google.com/drive/folders/1Lu5KRWRxA-HHLxSPjxwJmU8P20XkzKdp?usp=sharing)
 
 - ⚡ Fun fact **I ❤️ watching Anime.**
 
