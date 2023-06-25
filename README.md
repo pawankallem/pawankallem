@@ -1,15 +1,15 @@
 
 <h1 align="center">Hi There 👋, I'm Pavan Kallem</h1>
-<h3 align="center">I'm a Full Stack Web Developer. I did my graduation from Jyothishmathi Institute Of Technology and Science from Karimnagar, Telangana, currently, I am doing full-stack development at Masai school, apart from that I also like to work with collaborative projects, learning new things that boost my skills and mindset looking forward to enhancing my carrier in this field</h3>
+<h3 align="center">I'm a Full Stack Web Developer. I graduated from Jyothishmathi Institute Of Technology and Science in Karimnagar, Telangana. After graduation, I pursued full-stack development training at Masai school. Currently, I am employed at Possible Works as a Front End Developer. In my current role, I work on collaborative projects while continuously learning new things to enhance my skills and mindset. I am actively focused on advancing my career in this field.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🌱 I’m currently learning **React, Redux, Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 🤝 I’m looking to collaborate on **OpenSource Contributions. Ping me, if you can guide me. Would be grateful.🌻**
 
 - 👨‍💻 All of my projects are available at [https://pavan-kallem.vercel.app/](https://pavan-kallem.vercel.app/)
 
-- 💬 Ask me about ** HTML, CSS, Javascript, Reactjs, Redux and DataStructure and Algorithum **
+- 💬 Ask me about ** HTML, CSS, Javascript, Reactjs,Typescript, Recoil, Redux, Vuejs, VueX, Nodejs, Expressjs, MongoDB, DataStructure and Algorithum **
 
 - 📫 How to reach me **pawankallem001@gmail.com**
 
