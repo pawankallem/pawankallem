@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **pawankallem001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1Lu5KRWRxA-HHLxSPjxwJmU8P20XkzKdp?usp=sharing](https://drive.google.com/drive/folders/1Lu5KRWRxA-HHLxSPjxwJmU8P20XkzKdp?usp=sharing)
+- 📄 Know about my experiences Resume [https://drive.google.com/drive/folders/1Lu5KRWRxA-HHLxSPjxwJmU8P20XkzKdp?usp=sharing](https://drive.google.com/drive/folders/1Lu5KRWRxA-HHLxSPjxwJmU8P20XkzKdp?usp=sharing)
 
 - ⚡ Fun fact **I ❤️ watching Anime.**
 
