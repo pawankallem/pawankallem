@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pavan-kallem.vercel.app/](https://pavan-kallem.vercel.app/)
 
-- 💬 Ask me about **HTML, CSS, Javascript, Reactjs,Typescript, Recoil, Redux, Vuejs, VueX, Nodejs, Expressjs, MongoDB, DataStructure and Algorithum**
+- 💬 Ask me about **HTML, CSS, Javascript, Reactjs,Typescript, Recoil, Redux, Vuejs, VueX, Nodejs, Expressjs, MongoDB, Data Structures and Algorithms**
 
 - 📫 How to reach me **pawankallem001@gmail.com**
 
