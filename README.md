@@ -11,7 +11,7 @@ In my role, I have successfully contributed to end-to-end project development, e
 
 - 👨‍💻 All of my projects are available at [https://pavan-kallem.vercel.app/](https://pavan-kallem.vercel.app/)
 
-- 💬 Ask me about **HTML, CSS, Javascript, Reactjs,Typescript, Recoil, Redux, Vuejs, VueX, Nodejs, Expressjs, MongoDB, Data Structures and Algorithms, Python Flask, Redux-Toolkit, Css frameworks**
+- 💬 Ask me about **HTML, CSS, Javascript, ReactJs,Typescript, Recoil, Redux, VueJs, VueX, NodeJs, ExpressJs, MongoDB, Data Structures and Algorithms, Python Flask, Redux-Toolkit, Css frameworks**
 
 - 📫 How to reach me **kallem.pavan1997@gmail.com**
 
