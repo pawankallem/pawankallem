@@ -67,9 +67,11 @@ In my role, I have successfully contributed to end-to-end project development, e
 <h1> GitHub </h1>
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawankallem&show_icons=true&locale=en&layout=compact" alt="pawankallem" /></p>
+<!-- <br/><br/><br/><br/><br/><br/><br/>
+[![GitHub Streak](https://github-readme-streak-stats-three-phi.vercel.app?user=pawankallem)](https://git.io/streak-stats) -->
 <br/><br/><br/><br/><br/><br/><br/>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pawankallem&show_icons=true&locale=en" alt="pawankallem" /></p>
 <br/><br/><br/><br/><br/><br/><br/>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pawankallem&" alt="pawankallem" /></p> 
+<p><img align="left" src="https://github-readme-streak-stats-three-phi.vercel.app/?user=pawankallem" alt="pawankallem" /></p> 
 
 <br/><br/><br/>
