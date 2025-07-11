@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi There 👋, I'm Pavan Kallem</h1>
 <!-- <h3 align="center">I'm a Full Stack Web Developer. I graduated from Jyothishmathi Institute Of Technology and Science in Karimnagar, Telangana. After graduation, I pursued full-stack development training at Masai school. Currently, I am employed at Possible Works as a Front End Developer. In my current role, I work on collaborative projects while continuously learning new things to enhance my skills and mindset. I am actively focused on advancing my career in this field.</h3> -->
-<h3 align="center">I'm a Full Stack Web Developer, passionate about building scalable and efficient web applications. I graduated from Jyothishmathi Institute of Technology and Science in Karimnagar, Telangana, and further honed my skills in Full Stack Development at Masai School. Currently, I am employed at <strong>Pinaca Technologies</strong> as a Full Stack Developer.
+<h3 align="justify">I'm a Full Stack Web Developer, passionate about building scalable and efficient web applications. I graduated from Jyothishmathi Institute of Technology and Science in Karimnagar, Telangana, and further honed my skills in Full Stack Development at Masai School. Currently, I am employed at <strong>Pinaca Technologies</strong> as a Full Stack Developer.
 In my role, I have successfully contributed to end-to-end project development, ensuring seamless deployment in both <strong>client offline environments and cloud-based online platforms</strong>. I have worked on AI-powered chatbot solutions, integrated advanced machine learning models, and optimized large-scale data processing. I thrive in collaborative settings, continuously learning and adapting to new technologies to enhance my expertise. My focus remains on delivering high-quality, performance-driven applications while advancing my career in this field.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
@@ -58,20 +58,22 @@ In my role, I have successfully contributed to end-to-end project development, e
 </p>
 <hr>
 <h1> Leet Code </h1>
+<hr>
 <br/>
-
-![](https://leetcard.jacoblin.cool/pawankallem?ext=heatmap)
-
+<!-- <p> ![](https://leetcard.jacoblin.cool/pawankallem?ext=heatmap&theme=dark) </p> -->
+<img style="width:100%" src="https://leetcard.jacoblin.cool/pawankallem?ext=heatmap&theme=dark" alt="pawankallem" /> 
 <br/><br/>
+
 <hr>
 <h1> GitHub </h1>
+<hr>
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawankallem&show_icons=true&locale=en&layout=compact" alt="pawankallem" /></p>
-<!-- <br/><br/><br/><br/><br/><br/><br/>
-[![GitHub Streak](https://github-readme-streak-stats-three-phi.vercel.app?user=pawankallem)](https://git.io/streak-stats) -->
-<br/><br/><br/><br/><br/><br/><br/>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pawankallem&show_icons=true&locale=en" alt="pawankallem" /></p>
-<br/><br/><br/><br/><br/><br/><br/>
-<p><img align="left" src="https://github-readme-streak-stats-three-phi.vercel.app/?user=pawankallem" alt="pawankallem" /></p> 
+<img style="width:100%;height:300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawankallem&show_icons=true&locale=en&layout=compact" alt="pawankallem" />
+<br/><br/>
+<img style="width:100%;height:300px"  src="https://github-readme-stats.vercel.app/api?username=pawankallem&show_icons=true&locale=en" alt="pawankallem" />
+<br/><br/>
+<img style="width:100%;height:300px"  src="https://github-readme-streak-stats-three-phi.vercel.app/?user=pawankallem" alt="pawankallem" />
 
 <br/><br/><br/>
+
+
