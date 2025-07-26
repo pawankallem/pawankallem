@@ -5,7 +5,7 @@
 In my role, I have successfully contributed to end-to-end project development, ensuring seamless deployment in both <strong>client offline environments and cloud-based online platforms</strong>. I have worked on AI-powered chatbot solutions, integrated advanced machine learning models, and optimized large-scale data processing. I thrive in collaborative settings, continuously learning and adapting to new technologies to enhance my expertise. My focus remains on delivering high-quality, performance-driven applications while advancing my career in this field.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🌱 I’m currently learning **Java** and **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Java** and **Data Structures and Algorithms**
 
 - 🤝 I’m looking to collaborate on **OpenSource Contributions. Ping me, if you can guide me. Would be grateful.🌻**
 
